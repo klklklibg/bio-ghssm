@@ -1,0 +1,9 @@
+>=3.10
+torch>=2.0
+numpy
+akshare
+pandas
+onnx
+onnxruntime
+scikit-learn
+datasets
